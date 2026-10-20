@@ -3,3 +3,5 @@
 @media(max-width:640px){.about-card{padding:28px;box-shadow:8px 8px 0 #e3e5d6}nav{gap:13px}nav a{font-size:11px}.header{gap:14px}}
 
 .online-links{display:flex;flex-wrap:wrap;gap:14px}
+
+.past-roles{display:grid;grid-template-columns:1fr 1fr;gap:28px 40px;margin-top:36px}.past-roles article{border-top:1px solid var(--line);padding-top:22px}.past-roles h3{font-size:22px;font-weight:500;margin-bottom:8px}.past-roles p{font-size:15px;color:var(--muted);margin-bottom:0}.past-roles .role{font-size:13px;color:var(--ink);margin-bottom:13px}@media(max-width:640px){.past-roles{grid-template-columns:1fr;gap:24px}}
